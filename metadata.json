@@ -1,0 +1,7 @@
+{
+  "name": "SmartBilling POS",
+  "description": "Offline-first, AI-assisted point of sale system with vision billing, scale integration, and anomaly detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
