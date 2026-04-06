@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1wFJjP5zpZspahUYgyxYUHJ
 3. Run the app:
    `npm run dev`
 # smartbill-pos
+# smartbill-pos
